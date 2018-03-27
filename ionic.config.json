@@ -1,0 +1,14 @@
+{
+  "name": "IonicProject11",
+  "app_id": "861c366b",
+  "type": "ionic1",
+  "integrations": {
+    "gulp": {}
+  },
+  "watchPatterns": [
+    "scss/**/*",
+    "www/**/*",
+    "!www/lib/**/*",
+    "!www/**/*.map"
+  ]
+}
